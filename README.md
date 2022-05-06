@@ -18,7 +18,7 @@
 # Quick Start
 ## Installation
 ```bash
-pip install DF-generic-response
+pip install df-generics
 ```
 
 To get more advanced examples, take a look at [examples](https://github.com/deepmipt/dialog_flow_generics/tree/main/examples) on GitHub.
