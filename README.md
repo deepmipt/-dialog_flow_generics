@@ -23,6 +23,6 @@ pip install df-generics
 
 To get more advanced examples, take a look at [examples](https://github.com/deepmipt/dialog_flow_generics/tree/main/examples) on GitHub.
 
-# Contributing to the Dialog Flow Engine
+# Contributing to the Dialog Flow Generics
 
 Please refer to [CONTRIBUTING.md](https://github.com/deepmipt/dialog_flow_engine/blob/dev/CONTRIBUTING.md).
